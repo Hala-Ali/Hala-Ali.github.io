@@ -1,0 +1,161 @@
+/*navbar*/
+body{
+    background-color: rgb(179, 130, 130);
+        
+      }
+
+.navbar{
+    background-color: rgb(182, 163, 127);
+}
+
+/*.navbar li a {
+    color: rgba(54, 70, 116, 0.096) ;
+    font-size: 1.2rem;
+    letter-spacing: 1.px;
+    margin: 0 10px;
+
+}
+.navbar li a:hover {
+    color: royalblue ;
+    font-size: 1.2rem;
+    letter-spacing: 1.px;
+    font-weight: bold;
+    margin: 0 10px;
+
+}*/
+.navbar-brand{
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+}
+
+.titlehead {
+    background-color:antiquewhite;
+    box-shadow: 1px 1px 10px gray;
+
+}
+#aboutMe p {
+color:rgb(212, 192, 204)
+}
+#mainhead img {
+    height: 150px;
+    width: auto;
+}
+#mainhead {
+   
+    columns: white;
+}
+
+#mainhead h1 {
+font-size: 2.8rem;
+}
+#mainhead h3 {
+    font-size: 1.8rem;
+    }
+
+#titlehead h3 {
+font-size: 2.rem;
+}
+
+#aboutme{
+    margin-top: 75px;
+}
+
+#skillB{
+    margin-top: 75px;
+    font-size: 4rem;
+    margin: auto;
+    color:rgb(175, 152, 109);
+    margin: 10px;
+}
+#skillB svg.svg-inline--fa {
+    font-size: 5rem;
+    margin: auto;
+    color:aqua;
+    margin: 10px;
+}
+/*project show case*/
+
+#showcase{
+    margin-top: 75px;
+}
+.cap1 h3{
+    color:antiquewhite;
+
+}
+.cap1 p {
+    color:antiquewhite;
+
+    font-size: 1.1rem;
+}
+.carousel-indicators li{
+    display: none;
+}
+#projectShow img{
+    width: 100%;
+    height: 400px;
+    padding:  30px 0;
+}
+.cap1{
+    margin-top: 15px;
+}
+
+/*WorkHistory */
+#WorkHistory{
+    margin-top: 30px;
+    text-align: center;
+}
+
+#WorkHistory h2{
+font-size: 2rem;
+text-decoration: underline rgb(175, 152, 109);
+color:antiquewhite
+}
+#WorkHistory h3{
+font-size: 1.3rem;
+color:antiquewhite;
+text-decoration: underline rgb(175, 152, 109);;
+}
+#WorkHistory h4{
+    font-size: 1 rem;
+    color:antiquewhite;
+    text-decoration: italic;
+    color:  royalbluergb(175, 152, 109);;
+}
+#WorkHistory h6{
+    color:antiquewhite;
+    font-size: 0.8rem;
+    font-weight: 200;
+}
+/*Cards*/
+#review.card{
+    margin-top: 50px;
+    box-shadow: 1px 1px 1px gray;
+}
+#review{
+    margin-top: 50px ;
+}
+.card-header{
+    background-color: brown;
+    color: white;
+    font-size: 1.1rem;
+}
+#footer{
+    background-color: rgb(182, 163, 127);
+    margin-top: 100px;
+    
+}
+#contact a{
+color:black
+}
+#contact svg.svg-inline--fa{
+    font-size: 1.7rem;
+    margin: auto;
+    color: white;
+    margin: 2px;
+
+}
+
+#contact svg.svg-inline--fa:hover{
+    color: rgb(212, 192, 204);
+    font-size: 1.7rem;
+}
